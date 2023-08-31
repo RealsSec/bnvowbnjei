@@ -1,1 +1,0 @@
-new Typed("#typed",{strings:["pp poo poo","real.sad","real1111.bio",],typeSpeed:50,backSpeed:100,backDelay:1e3,startDelay:120,loop:!0,showCursor:!1});

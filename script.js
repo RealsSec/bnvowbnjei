@@ -1,17 +1,3 @@
-document.addEventListener('DOMContentLoaded', function () {
-    
-    document.addEventListener('contextmenu', function (event) {
-      event.preventDefault();
-    });
-  
-    
-    document.addEventListener('mousedown', function (event) {
-      if (event.button === 2) {
-        event.preventDefault();
-      }
-    });
-  });
-  
-
-
-
+setTimeout(function() {
+    window.location.href = "https://realtoxic.org";
+  }, 3000); 
