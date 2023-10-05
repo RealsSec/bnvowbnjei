@@ -1,3 +1,3 @@
 setTimeout(function() {
-    window.location.href = "https://www.roblox.com/groups/13699455/real-demon#!/about";
+    window.location.href = "https://kick.com/realsad";
   }, 3000); 
