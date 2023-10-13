@@ -1,3 +1,3 @@
 setTimeout(function() {
-    window.location.href = "https://kick.com/realsad";
+    window.location.href = "https://kick.com/realtoxicorg";
   }, 3000); 
